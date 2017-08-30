@@ -1,0 +1,5 @@
+<ul class="mapboxGeocoder--results" data-ng-if="mapboxGeocoderResults && mapboxGeocoderResults.features.length">
+  <li class="mapboxGeocoder--results--result" data-ng-repeat="result in mapboxGeocoderResults.features" data-ng-click="address.select(result)">
+    {{ result.place_name }}
+  </li>
+</ul>
