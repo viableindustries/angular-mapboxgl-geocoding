@@ -1,0 +1,26 @@
+{
+  "name": "angular-mapboxgl-geocoding",
+  "version": "0.0.1",
+  "description": "An Angular MapboxGL Geocoding module",
+  "main": "angular-mapboxgl-geocoding.js",
+  "directories": {},
+  "dependencies": {},
+  "scripts": {},
+  "keywords": [
+    "angular.js",
+    "angular",
+    "mapbox",
+    "mapboxgl",
+    "leaflet",
+    "map"
+  ],
+  "authors": [
+    "Joshua Powell <joshua@viable.io>"
+  ],
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:viableindustries/angular-mapboxgl-geocoding.git"
+  }
+}
